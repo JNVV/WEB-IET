@@ -20,9 +20,8 @@ ul{
 }
 .container{
     width: 90%;
-    height: 80px;
     margin: auto;
-    background-color: white;
+    background-color: white;    
 }
 /*ESTILOS DEL NAV*/
 .nav-main{
@@ -131,4 +130,7 @@ hr{
 .links a i{
     font-size: 3rem;
     color: white;
+}
+.links a i:hover{
+    color: rgb(73, 212, 73);
 }
